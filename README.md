@@ -7,7 +7,7 @@ This project aims to classify images of dogs and cats using transfer learning wi
 ### Prerequisites
 
 - Python 3
-- Jupyter Notebook
+- Jupyter Notebook/ Google Colab Notebook
 - TensorFlow
 - TensorFlow Hub
 - OpenCV
